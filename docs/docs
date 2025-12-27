@@ -1,1 +1,6 @@
+## Workflow Details
 
+- Google Sheets acts as content trigger source
+- Gemini generates personalized captions
+- Router distributes content per platform
+- Scheduling module controls posting time
