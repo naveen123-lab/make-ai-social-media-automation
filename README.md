@@ -97,3 +97,14 @@ The workflow acts as a **personalized content engine** that reads input links an
 
 ## 📂 Repository Structure
 
+make-ai-social-media-automation
+│── README.md
+│── blueprints/
+│ └── ai-social-media-automation.json
+│── screenshots/
+│ ├── scenario-overview.png
+│ ├── router-configuration.png
+│ └── execution-success.png
+│── docs/
+│ └── workflow-details.md
+
